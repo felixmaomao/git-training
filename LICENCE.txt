@@ -9,5 +9,3 @@ felix_hotfix
 
 
 release notes
-
-ohoh
