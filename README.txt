@@ -5,3 +5,4 @@ another change for git amend
 hello
 
 felix doing feature1
+max doing feature2
