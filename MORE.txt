@@ -1,2 +1,4 @@
 hot fix
 issue6
+issue7 task
+issue7 bug
