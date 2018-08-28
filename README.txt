@@ -5,3 +5,5 @@ another change for git amend
 hello
 
 issue1 bug
+
+issue2 bug
