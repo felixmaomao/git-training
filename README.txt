@@ -9,3 +9,16 @@ issue3 bug
 
 issue2 bug
 issue 5 bug
+
+
+
+
+
+
+
+
+
+
+
+
+issue6 task
