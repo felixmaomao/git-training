@@ -5,9 +5,7 @@ another change for git amend
 hello
 
 issue1 bug
-<<<<<<< HEAD
 issue3 bug
-=======
 
 issue2 bug
->>>>>>> issue2
+issue 5 bug
