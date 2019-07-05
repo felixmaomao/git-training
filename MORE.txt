@@ -9,3 +9,4 @@ issue9bug
 
 feature1 change another
 feature1 lack change
+feature1 fix bug
